@@ -1,4 +1,4 @@
-This is a simple typing test.
+# This is a simple typing test.
 
 FUNCTIONALITY:
 The app will begin with title and a short summary of this typing test along with
@@ -20,3 +20,5 @@ MISC.
 
 Timer set so the numbers show in 00:00:00 format as the timer is running.
 Start over buttons reset the entire test.
+
+![alt text](https://github.com/aidenshih/DontDineAndDie/blob/master/ddd/public/Detailed.png)

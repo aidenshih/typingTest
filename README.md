@@ -21,4 +21,4 @@ MISC.
 Timer set so the numbers show in 00:00:00 format as the timer is running.
 Start over buttons reset the entire test.
 
-![alt text](https://github.com/aidenshih/DontDineAndDie/blob/master/ddd/public/Detailed.png)
+![alt text](https://github.com/aidenshih/typingTest/blob/master/Typing.png)
